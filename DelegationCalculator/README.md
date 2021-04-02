@@ -11,4 +11,4 @@ Rules to calculate the rate:
 - up to 8 hours - 1/3 of daily rate
 - 8 to 12 hours - 1/2 of daily rate
 - more than 12 hours - full daily rate
-- if the beginning is later than the end,s or they are the same, rate is 0.
+- if the beginning is later than the end, or they are the same, rate is 0.
